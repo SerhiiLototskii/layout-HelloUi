@@ -1,0 +1,62 @@
+
+.header {
+    background-color: #FFFFFF;
+}
+
+.header__container {
+    max-width: 1321px;
+    margin: 0px auto;
+}
+
+.header__row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    margin-right: 163px;
+}
+
+.header__buttons {
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    max-width: 525px;
+    width: 100%;
+    color: #050038;
+}
+
+li {
+    list-style-type: none;
+}
+
+ul {
+    padding-left: 0;
+}
+
+.header__loginButtonContainer {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+}
+
+.header__signIn {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color: #050038;
+    padding-left: 131px;
+
+}
+
+.header__tryForFree {
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+    background-color: #0555FF;
+    border: none;
+    width: 180px;
+    height: 50px;
+    border-radius: 30px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}

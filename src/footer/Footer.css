@@ -1,0 +1,21 @@
+
+.footer{
+background-color: #0F0937;
+
+}
+.footer__IMG{
+    padding-top: 2px;
+}
+.footer__row{
+    display: flex;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+}
+.footer__text{
+    color: #FFFFFF;
+    font-size: 16px;
+    margin-left: 7px;
+}
+
+

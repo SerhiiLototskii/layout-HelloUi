@@ -1,0 +1,32 @@
+
+.develop{
+background-color: #FFFFFF;
+}
+.container{
+    max-width: 1290px;
+    margin: 0px auto;
+}
+.develop__row{
+    display: flex;
+    justify-content: space-between;
+}
+.develop__image{
+
+}
+.develop__title{
+    color: #050038;
+    font-size: 72px;
+    margin: 0px 0px 30px 0px;
+}
+.develop__text{
+    color: #5B5E6D;
+    font-size: 20px;
+    line-height: 32px;
+    margin: 0px 0px 40px 0px;
+}
+.develop__buttonMore{
+    color: #000000;
+    font-size: 18px;
+    border-bottom: 2px solid #0555FF;
+    display: inline;
+}
